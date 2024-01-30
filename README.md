@@ -3,7 +3,7 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/razakovdev
 
-Progress: **37 days** /Tasks solved: **66** / Missed days: **2 days**
+Progress: **37 days** /Tasks solved: **66** / Missed days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
