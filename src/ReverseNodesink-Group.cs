@@ -23,6 +23,18 @@ public class Solution {
         int kk = 1, flag = 0, d = 1;
         curr = curr.next;
         while(curr != null){
+            if(kk == k){
+                if(flag == 0){
+                    ansHead = reverseHead;
+                    ansEnd = reverseLast;
+                }
+                else{
+                    ansEnd.next = reverseHead;
+                    ansEnd = reverseLast;
+                }
+                flag = 1;
+                kk = 0;
+            }
             if(kk == 0){
                 reverseHead = new ListNode(curr.val);
                 reverseLast = reverseHead;
@@ -32,21 +44,23 @@ public class Solution {
                 local = new ListNode(curr.val);
                 local.next = reverseHead;
                 reverseHead = local;
-                if(flag == 0){
-                    ansHead = reverseHead;
-                }
                 kk++;
             }
-            if(kk == k){
-                flag = 1;
-                ansEnd.next = reverseHead;
-                ansEnd = reverseLast;
-                kk = 0;
-            }
+                
             d++;
+                /*if(d == 2){
+                    return reverseHead;
+                }*/
             curr = curr.next;
+                
         }
-        /*if(d > k && kk < k && kk != 0){
+        if(flag == 0 && kk == k){
+            return reverseHead;
+        }
+        if(kk == k){
+            ansEnd.next = reverseHead;
+        }
+        if(kk < k && reverseHead != null && kk != 0){
             ListNode remainHead = new ListNode(reverseHead.val);
             reverseHead = reverseHead.next;
             while(reverseHead != null){
@@ -57,7 +71,7 @@ public class Solution {
                 reverseHead = reverseHead.next;
             }
             ansEnd.next = remainHead;
-        }*/
+        }
         return ansHead;
     }
 }
