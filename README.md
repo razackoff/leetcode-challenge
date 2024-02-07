@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/razakovdev [![LeetCode user Firuz](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frazakovdev&logo=leetcode&logoColor=yellow)](https://leetcode.com/razakovdev/)
 
-Progress: **44 days** / Tasks solved: **75 tasks** / Missed days: **3 days** / Streak days: **15 days**
+Progress: **45 days** / Tasks solved: **76 tasks** / Missed days: **3 days** / Streak days: **16 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                         | Date               | Problem                                                                                                                                                                | Level   | Programming language |
 |-----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------|
+| [45](./src/MaximumDepthofBinaryTree.kt)                                               | February 6, 2024   | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)                                                                                                           | EASY    | Kotlin               |
 | [44](./src/MultiplyStrings.cs)                                               | February 6, 2024   | [ Multiply Strings](https://leetcode.com/problems/multiply-strings)                                                                                                           | MEDIUM  | C#                   |
 | [43](./src/ReverseNodesink-Group.cs)                                               | February 5, 2024   | [ Reverse Nodes in k-Group ](https://leetcode.com/problems/reverse-nodes-in-k-group)                                                                                                           | HARD    | C#                   |
 | [42](./src/BestTimetoBuyandSellStock.cs)                                               | February 4, 2024   | [ Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                                                                                                           | EASY    | C#                   |
