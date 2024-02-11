@@ -13,13 +13,6 @@ public class Solution {
         while(k > 0){
             k--;
             for(int i = 0; i < list.Count; i++){
-                /*ans *= 10;
-                if(list[i] == -1){
-                    ans += 3;
-                }
-                else{
-                    ans += list[i];
-                }*/
                 if(i > 0 && list[i - 1] >= 2 && list[i] >= 2){
                     list[i - 1] = list[i - 1] + list[i];
                     list.RemoveAt(i);
@@ -39,20 +32,8 @@ public class Solution {
                     i--;
                 }
             }
-            /*if(ans >= 1000000){
-                break;
-            }*/
         }
-        //return 500;
-        ans = 0;
         for(int i = 0; i < list.Count; i++){
-            /*ans *= 10;
-            if(list[i] == -1){
-                ans += 3;
-            }
-            else{
-                ans += list[i];
-            }*/
             if(list[i] > ans && list[i] != 1){
                 ans = list[i];
             }
