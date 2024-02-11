@@ -13,6 +13,9 @@ public class Solution {
         while(k > 0){
             k--;
             for(int i = 0; i < list.Count; i++){
+                if(list[i] > ans && list[i] != 1){
+                    ans = list[i];
+                }
                 if(i > 0 && list[i - 1] >= 2 && list[i] >= 2){
                     list[i - 1] = list[i - 1] + list[i];
                     list.RemoveAt(i);
@@ -31,11 +34,6 @@ public class Solution {
                     k++;
                     i--;
                 }
-            }
-        }
-        for(int i = 0; i < list.Count; i++){
-            if(list[i] > ans && list[i] != 1){
-                ans = list[i];
             }
         }
         return ans;
