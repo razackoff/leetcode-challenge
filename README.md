@@ -3,7 +3,7 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/razakovdev [![LeetCode user Firuz](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frazakovdev&logo=leetcode&logoColor=yellow)](https://leetcode.com/razakovdev/)
 
-Progress: **51 days** / Tasks solved: **80 tasks** / Missed days: **3 days** / Streak days: **21 days**
+Progress: **52 days** / Tasks solved: **82 tasks** / Missed days: **3 days** / Streak days: **22 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
