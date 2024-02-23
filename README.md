@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/razakovdev [![LeetCode user Firuz](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frazakovdev&logo=leetcode&logoColor=yellow)](https://leetcode.com/razakovdev/)
 
-Progress: **61 days** / Tasks solved: **90 tasks** / Missed days: **3 days** / Streak days: **31 days**
+Progress: **61 days** / Tasks solved: **91 tasks** / Missed days: **3 days** / Streak days: **31 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                         | Date               | Problem                                                                                                                                                                | Level   | Programming language |
 |-----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------|
+| [61](./src/PermutationsII.cs)                                               | February 23, 2024   | [ Valid Sudoku ](https://leetcode.com/problems/valid-sudoku)                                                                                                           | MEDIUM  | C#                   |
 | [60](./src/PermutationsII.cs)                                               | February 22, 2024   | [ Permutations II ](https://leetcode.com/problems/permutations-ii)                                                                                                           | MEDIUM  | C#                   |
 | [59](./src/PowerOfTwo.cs)                                               | February 21, 2024   | [ Power of Two ](https://leetcode.com/problems/power-of-two)                                                                                                           | EASY    | C#                   |
 | [58](./src/MajorityElement.cs)                                               | February 20, 2024   | [ Majority Element ](https://leetcode.com/problems/majority-element)                                                                                                           | EASY    | C#                   |
