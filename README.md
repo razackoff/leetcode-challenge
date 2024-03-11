@@ -3,12 +3,14 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/razakovdev [![LeetCode user Firuz](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frazakovdev&logo=leetcode&logoColor=yellow)](https://leetcode.com/razakovdev/)
 
-Progress: **76 days** / Tasks solved: **105 tasks** / Missed days: **3 days** / Streak days: **46 days**
+Progress: **77 days** / Tasks solved: **106 tasks** / Missed days: **3 days** / Streak days: **47 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                         | Date               | Problem                                                                                                                                                                | Level   | Programming language |
 |-----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------|
+| [77](./src/IntersectionofTwoArrays.cs)                                               | March 10, 2024 | [ Intersection of Two Arrays ](https://leetcode.com/problems/count-elements-with-maximum-frequency)                                                                                                           | EASY    | C#                   |
+| [76](./src/MinimumCommonValue.cs)                                               | March 9, 2024 | [ Minimum Common Value ](https://leetcode.com/problems/minimum-common-value)                                                                                                           | EASY    | C#                   |
 | [75](./src/CountElementsWithMaximumFrequency.cs)                                               | March 8, 2024 | [ Count Elements With Maximum Frequency ](https://leetcode.com/problems/count-elements-with-maximum-frequency)                                                                                                           | EASY    | C#                   |
 | [74](./src/MiddleoftheLinkedList.cs)                                               | March 7, 2024 | [ Middle of the Linked List ](https://leetcode.com/problems/middle-of-the-linked-list)                                                                                                           | EASY    | C#                   |
 | [73](./src/LinkedListCycle.cs)                                               | March 6, 2024 | [ Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle)                                                                                                           | EASY    | C#                   |
