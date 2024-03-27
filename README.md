@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/razakovdev [![LeetCode user Firuz](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frazakovdev&logo=leetcode&logoColor=yellow)](https://leetcode.com/razakovdev/)
 
-Progress: **93 days** / Tasks solved: **121 tasks** / Missed days: **3 days** / Streak days: **63 days**
+Progress: **94 days** / Tasks solved: **122 tasks** / Missed days: **3 days** / Streak days: **64 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                         | Date               | Problem                                                                                                                                                                | Level   | Programming language |
 |-----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------|
+| [94](./src/SubarrayProductLessThanK.cs)                                               | March 27, 2024 | [ Subarray Product Less Than K ](https://leetcode.com/problems/subarray-product-less-than-k)                                                                                                           | MEDIUM  | C#                   |
 | [93](./src/FirstMissingPositive.cs)                                               | March 26, 2024 | [ First Missing Positive ](https://leetcode.com/problems/first-missing-positive)                                                                                                           | HARD    | C#                   |
 | [92](./src/FindAllDuplicatesinanArray.cs)                                               | March 25, 2024 | [ Find All Duplicates in an Array ](https://leetcode.com/problems/find-all-duplicates-in-an-array)                                                                                                           | MEDIUM  | C#                   |
 | [91](./src/FindtheDuplicateNumber.cs)                                               | March 24, 2024 | [ Find the Duplicate Number ](https://leetcode.com/problems/find-the-duplicate-number)                                                                                                           | MEDIUM  | C#                   |
