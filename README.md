@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/razakovdev [![LeetCode user Firuz](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frazakovdev&logo=leetcode&logoColor=yellow)](https://leetcode.com/razakovdev/)
 
-Progress: **95 days** / Tasks solved: **123 tasks** / Missed days: **3 days** / Streak days: **65 days**
+Progress: **96 days** / Tasks solved: **123 tasks** / Missed days: **6 days** / Streak days: **1 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                         | Date               | Problem                                                                                                                                                                | Level   | Programming language |
 |-----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------|
+| [96](./src/LengthofLastWord.cs)                                               | April 1, 2024 | [ Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description)                                                                                                           | EASY    | C#                   |
 | [95](./src/LengthofLongestSubarrayWithatMostKFrequency.cs)                                               | March 28, 2024 | [ Length of Longest Subarray With at Most K Frequency ](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency)                                                                                                           | MEDIUM  | C#                   |
 | [94](./src/SubarrayProductLessThanK.cs)                                               | March 27, 2024 | [ Subarray Product Less Than K ](https://leetcode.com/problems/subarray-product-less-than-k)                                                                                                           | MEDIUM  | C#                   |
 | [93](./src/FirstMissingPositive.cs)                                               | March 26, 2024 | [ First Missing Positive ](https://leetcode.com/problems/first-missing-positive)                                                                                                           | HARD    | C#                   |
