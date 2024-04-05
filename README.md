@@ -3,13 +3,14 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/razakovdev [![LeetCode user Firuz](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frazakovdev&logo=leetcode&logoColor=yellow)](https://leetcode.com/razakovdev/)
 
-Progress: **98 days** / Tasks solved: **124 tasks** / Missed days: **7 days** / Streak days: **3 days**
+Progress: **99 days** / Tasks solved: **125 tasks** / Missed days: **6 days** / Streak days: **3 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                         | Date               | Problem                                                                                                                                                                | Level   | Programming language |
 |-----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------|
 | [99](./src/MakeTheStringGreat.cs)                                               | April 5, 2024 | [ Make The String Great ](https://leetcode.com/problems/make-the-string-great)                                                                                                           | EASY    | C#                   |
+| [98](./src/GenerateParentheses.cs)                                               | April 4, 2024 | [ Generate Parentheses ](https://leetcode.com/problems/generate-parentheses)                                                                                                           | MEDIUM  | C#                   |
 | [97](./src/WordSearch.cs)                                               | April 3, 2024 | [ Word Search ](https://leetcode.com/problems/word-search)                                                                                                           | MEDIUM  | C#                   |
 | [96](./src/LengthofLastWord.cs)                                               | April 1, 2024 | [ Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description)                                                                                                           | EASY    | C#                   |
 | [95](./src/LengthofLongestSubarrayWithatMostKFrequency.cs)                                               | March 28, 2024 | [ Length of Longest Subarray With at Most K Frequency ](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency)                                                                                                           | MEDIUM  | C#                   |
