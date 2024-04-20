@@ -3,12 +3,13 @@ I challenged myself to solve one leetcode.com problem every day. To navigate to 
 
 My account on LeetCode - https://leetcode.com/razakovdev [![LeetCode user Firuz](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frazakovdev&logo=leetcode&logoColor=yellow)](https://leetcode.com/razakovdev/)
 
-Progress: **108 days** / Tasks solved: **133 tasks** / Missed days: **7 days** / Streak days: **9 days**
+Progress: **110 days** / Tasks solved: **134 tasks** / Missed days: **10 days** / Streak days: **1 days**
 
 You can give me more motivation by giving this GitHub repo a star ⭐. Thank you 🙏
 
 | Day                                                                         | Date               | Problem                                                                                                                                                                | Level   | Programming language |
 |-----------------------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------------------|
+| [110](./src/FindAllGroupsofFarmland.cs)                                               | April 20, 2024 | [ Find All Groups of Farmland ](https://leetcode.com/problems/find-all-groups-of-farmland)                                                                                                           | MEDIUM  | C#                   |
 | [109](./src/IslandPerimeter.cs)                                               | April 18, 2024 | [ Island Perimeter ](https://leetcode.com/problems/island-perimeter)                                                                                                           | EASY    | C#                   |
 | [108](./src/SumRoottoLeafNumbers.cs)                                               | April 15, 2024 | [ Sum Root to Leaf Numbers ](https://leetcode.com/problems/sum-root-to-leaf-numbers)                                                                                                           | MEDIUM  | C#                   |
 | [107](./src/MaximalRectangle.cs)                                               | April 14, 2024 | [ Sum of Left Leaves ](https://leetcode.com/problems/sum-of-left-leaves)                                                                                                           | HARD    | C#                   |
